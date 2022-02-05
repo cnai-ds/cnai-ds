@@ -9,7 +9,7 @@ Tokyo to Paris to do more experimentations and find insights !
 - 📈**Farfetch: Data Analyst / Scientist** <br>
 Previous manager at Gucci invided me to join his team, so I did ! Experimentations on marketing channels and websites. Promoted after a year 
 - 💼**EY: Consultant** <br>
-Gained basic logical thinking process and professionalist to work for executives, promoted within a year
+Gained logical thinking process and professionalism to work for company executives, promoted within a year
 - 📈**Gucci: e-commerce Data Analyst intern** <br>
 Very first moment to find my passion in data wangling and insight analysis
 - **Google: summer business intern** <br>
