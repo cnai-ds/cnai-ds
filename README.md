@@ -3,7 +3,7 @@ Especially passionate about experimentation, solving problems by applying ML mod
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnai-ds&layout=compact)](https://github.com/cnai-ds/github-readme-stats)
 
-<a target="_blank" href=""><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Visualization">
+<a target="_blank" href=""><img src="https://github.com/cnai-ds/Datathon-Criteo-Benchmark-Churn-Date" alt="Visualization">
 
 🗣 🇬🇧 🇫🇷 🇯🇵
 #### Career story
