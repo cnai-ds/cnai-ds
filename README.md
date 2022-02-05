@@ -1,5 +1,5 @@
 ### <p align="center"> Data Scientist with a strong business background and provide data-driven decision making
-Especially passionate about experimentation, solving problems by applying ML models, finding actionable insights from data, and efficient visualization </p>
+Especially passionate about experimentation, solving problems by applying ML models, finding actionable insights from data, and efficient visualization. I have worked as a data scientist and analyst for more than 4 years, mainly in e-commerce companies. </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnai-ds&layout=compact)](https://github.com/cnai-ds/github-readme-stats)
 
