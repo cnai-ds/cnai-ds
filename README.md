@@ -1,5 +1,5 @@
 #### <p align="center"> Data Scientist from Tokyo with a strong business background and provide data-driven decision making </p>
-<p align="center"> Especially passionate about experimentation, solving problems by applying ML models, finding actionable insights from data, and efficient visualization </p><br>
+<p align="center"> Especially passionate about experimentation, solving problems by applying ML models, finding actionable insights from data, and efficient visualization <br>
 🗣 🇬🇧 🇫🇷 🇯🇵
 #### Career story
 - **Emerton: Data Scientist & Strategy Consltant** <br>
@@ -14,6 +14,8 @@ Gained basic logical thinking process and professionalist to work for executives
 Very first moment to find my passion in data wangling and insight analysis
 - **Google: summer business intern** <br>
 Created a video presentation for a new style of knowledge commmunity to support the diversity in perspectives
+  
+</p>
 
 <!--
 **cnai-ds/cnai-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
