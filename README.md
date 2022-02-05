@@ -2,7 +2,7 @@
 Especially passionate about experimentation, solving problems by applying ML models, finding actionable insights from data, and efficient visualization <br>
 #### Career story
 - **Emerton: Data Scientist & Strategy Consltant** <br>
-One of the most well known data science team in Paris, first time to develop python packages, pipeline, deal with unstructured data, research new field
+One of the most well known data science team in Paris, first time to create my own python packages, pipeline, deal with satellite image, remote sensing, research new field. (Sadly projects are highly confidential for our client to publish on github...!)
 - **Rakuten: Data Scientist** <br>
 Tokyo to Paris to do more experimentations and find insights !
 - **Farfetch: Data Analyst / Scientist** <br>
