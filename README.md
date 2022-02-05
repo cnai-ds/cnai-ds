@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a Data Scientist with a strong business background and provide data-driven decision making. I am especially passionate about experimentation, solving problems by applying ML models, finding actionable insights from data, and efficient visualization
 
 <!--
 **cnai-ds/cnai-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
