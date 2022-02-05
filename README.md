@@ -1,5 +1,5 @@
-#### Data Scientist from Tokyo with a strong business background and provide data-driven decision making {text-align: center;}
-Especially passionate about experimentation, solving problems by applying ML models, finding actionable insights from data, and efficient visualization {text-align: center;}<br>
+#### <center> Data Scientist from Tokyo with a strong business background and provide data-driven decision making </center>
+<center>Especially passionate about experimentation, solving problems by applying ML models, finding actionable insights from data, and efficient visualization </center><br>
 🗣 🇬🇧 🇫🇷 🇯🇵
 #### Career story
 - **Emerton: Data Scientist & Strategy Consltant** <br>
