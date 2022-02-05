@@ -1,5 +1,8 @@
 #### <p align="center"> Data Scientist with a strong business background and provide data-driven decision making
 Especially passionate about experimentation, solving problems by applying ML models, finding actionable insights from data, and efficient visualization </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnai-ds)](https://github.com/cnai-ds/github-readme-stats)
+
 🗣 🇬🇧 🇫🇷 🇯🇵
 #### Career story
 - **Emerton: Data Scientist & Strategy Consltant**📈💼 <br>
