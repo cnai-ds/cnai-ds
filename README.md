@@ -5,7 +5,7 @@ Especially passionate about experimentation, solving problems by applying ML mod
 - **Emerton: Data Scientist & Strategy Consltant**📈💼 <br>
 One of the most well known data science team in Paris, first time to create my own python packages, pipeline, deal with satellite image, remote sensing, research new field. (Sadly projects are highly confidential for our client to publish on github...!) <br>
 - **Rakuten: Data Scientist**📈 <br>
-Tokyo to Paris to do more experimentations and find insights ! v
+Tokyo to Paris to do more experimentations and find insights ! <br>
 - **Farfetch: Data Analyst / Scientist**📈 <br>
 Previous manager at Gucci invided me to join his team, so I did ! Experimentations on marketing channels and websites. Promoted after a year <br> 
 - **EY: Consultant**💼 <br>
