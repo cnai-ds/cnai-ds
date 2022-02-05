@@ -3,12 +3,12 @@ Especially passionate about experimentation, solving problems by applying ML mod
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnai-ds&layout=compact)](https://github.com/cnai-ds/github-readme-stats)
 
-<a target="_blank" href=""><img src="https://github.com/cnai-ds/Datathon-Criteo-Benchmark-Churn-Date" alt="Visualization">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnai-ds&repo=Datathon-Criteo-Benchmark-Churn-Date)](https://github.com/cnai-ds/Datathon-Criteo-Benchmark-Churn-Date) 
 
 🗣 🇬🇧 🇫🇷 🇯🇵
 #### Career story
 - **Emerton: Data Scientist & Strategy Consltant**📈💼 <br>
-One of the most well known data science team in Paris, first time to create my own python packages, pipeline, deal with satellite image, remote sensing, research new field. (Sadly projects are highly confidential for our client to publish on github...!) <br><br>
+One of the most well known data science team in Paris, first time to create my own python packages for client, pipeline, deal with satellite image, remote sensing, research new field. (Sadly projects are highly confidential for our client to publish on github...!) <br><br>
 - **Rakuten: Data Scientist**📈 <br>
 Tokyo to Paris to do more experimentations and find insights ! <br><br>
 - **Farfetch: Data Analyst / Scientist**📈 <br>
