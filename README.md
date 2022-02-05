@@ -1,4 +1,4 @@
-#### <p align="center"> Data Scientist with a strong business background and provide data-driven decision making
+### <p align="center"> Data Scientist with a strong business background and provide data-driven decision making
 Especially passionate about experimentation, solving problems by applying ML models, finding actionable insights from data, and efficient visualization </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnai-ds&layout=compact)](https://github.com/cnai-ds/github-readme-stats)
@@ -9,7 +9,6 @@ Especially passionate about experimentation, solving problems by applying ML mod
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnai-ds&repo=Datathon-Instagram-Image-Color-Analysis)](https://github.com/cnai-ds/Datathon-Instagram-Image-Color-Analysis) 
 
 
-🗣 🇬🇧 🇫🇷 🇯🇵
 #### Career story
 - **Emerton: Data Scientist & Strategy Consltant**📈💼 <br>
 One of the most well known data science team in Paris, first time to create my own python packages for client, pipeline, deal with satellite image, remote sensing, research new field. (Sadly projects are highly confidential for our client to publish on github...!) <br><br>
