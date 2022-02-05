@@ -5,7 +5,7 @@ Especially passionate about experimentation, solving problems by applying ML mod
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnai-ds&repo=Datathon-Criteo-Benchmark-Churn-Date)](https://github.com/cnai-ds/Datathon-Criteo-Benchmark-Churn-Date)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnai-ds&repo=Crop-Yield-Prediction-Satellite-Image)](https://github.com/cnai-ds/Crop-Yield-Prediction-Satellite-Image) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnai-ds&repo=https://github.com/cnai-ds/Premium-Prediction-Natural-Hazards)](https://github.com/cnai-ds/https://github.com/cnai-ds/Premium-Prediction-Natural-Hazards) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnai-ds&repo=Premium-Prediction-Natural-Hazards)](https://github.com/cnai-ds/https://github.com/cnai-ds/Premium-Prediction-Natural-Hazards) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnai-ds&repo=Datathon-Instagram-Image-Color-Analysis)](https://github.com/cnai-ds/Datathon-Instagram-Image-Color-Analysis) 
 
 
