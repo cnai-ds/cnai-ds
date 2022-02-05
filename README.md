@@ -3,15 +3,15 @@ Especially passionate about experimentation, solving problems by applying ML mod
 🗣 🇬🇧 🇫🇷 🇯🇵
 #### Career story
 - **Emerton: Data Scientist & Strategy Consltant**📈💼 <br>
-One of the most well known data science team in Paris, first time to create my own python packages, pipeline, deal with satellite image, remote sensing, research new field. (Sadly projects are highly confidential for our client to publish on github...!) <br>
+One of the most well known data science team in Paris, first time to create my own python packages, pipeline, deal with satellite image, remote sensing, research new field. (Sadly projects are highly confidential for our client to publish on github...!) <br><br>
 - **Rakuten: Data Scientist**📈 <br>
-Tokyo to Paris to do more experimentations and find insights ! <br>
+Tokyo to Paris to do more experimentations and find insights ! <br><br>
 - **Farfetch: Data Analyst / Scientist**📈 <br>
-Previous manager at Gucci invided me to join his team, so I did ! Experimentations on marketing channels and websites. Promoted after a year <br> 
+Previous manager at Gucci invided me to join his team, so I did ! Experimentations on marketing channels and websites. Promoted after a year <br><br>
 - **EY: Consultant**💼 <br>
-Gained logical thinking process and professionalism to work for company executives, promoted within a year <br>
+Gained logical thinking process and professionalism to work for company executives, promoted within a year <br><br>
 - **Gucci: e-commerce Data Analyst intern**📈 <br>
-Very first moment to find my passion in data wangling and insight analysis <br>
+Very first moment to find my passion in data wangling and insight analysis <br><br>
 - **Google: summer business intern**💡 <br>
 Created a video presentation for a new style of knowledge commmunity to support the diversity in perspectives
 
