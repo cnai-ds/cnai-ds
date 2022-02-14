@@ -5,8 +5,8 @@ Especially passionate about experimentation, solving problems by applying ML mod
 
 ### Visualization samples
 <p float="center">
-<img src="./img/1.png" alt="" width="300" height="250">
-<img src="./img/2.png" alt="" width="300" height="250">
+<img src="./img/1.png" alt="" width="400" height="300">
+<img src="./img/2.png" alt="" width="400" height="300">
 </p>
 <img src="./img/3.png" alt="" width="400" height="250">
 <img src="./img/4.png" alt="" width="400" height="250">
