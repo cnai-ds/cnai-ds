@@ -5,21 +5,34 @@ Especially passionate about experimentation, solving problems by applying ML mod
 
 ### Visualization samples
 <p float="center">
-<img src="./img/1.png" alt="" width="450" height="300">
-<img src="./img/2.png" alt="" width="450" height="300">
+<img src="./img/1.png" alt="" width="400" height="300">
+<img src="./img/2.png" alt="" width="400" height="300">
 </p>
-<img src="./img/3.png" alt="" width="400" height="250">
-<img src="./img/4.png" alt="" width="400" height="250">
-<img src="./img/5.png" alt="" width="400" height="250">
-<img src="./img/6.png" alt="" width="400" height="250">
-<img src="./img/7.png" alt="" width="400" height="250">
-<img src="./img/8.png" alt="" width="400" height="250">
+<p float="center">
+<img src="./img/3.png" alt="" width="400" height="300">
+<img src="./img/4.png" alt="" width="400" height="300">
+</p>
+<p float="center">
+<img src="./img/5.png" alt="" width="400" height="300">
+<img src="./img/6.png" alt="" width="400" height="300">
+</p>
+<p float="center">
+<img src="./img/7.png" alt="" width="400" height="300">
+<img src="./img/8.png" alt="" width="400" height="300">
+</p>
+<p float="center">
 <img src="./img/9.png" alt="" width="400" height="250">
 <img src="./img/10.png" alt="" width="400" height="250">
-<img src="./img/11.png" alt="" width="400" height="250">
-<img src="./img/12.png" alt="" width="400" height="250">
-<img src="./img/13.png" alt="" width="400" height="250">
-<img src="./img/14.png" alt="" width="400" height="250">
+</p>
+<p float="center">
+<img src="./img/11.png" alt="" width="400" height="300">
+<img src="./img/12.png" alt="" width="400" height="300">
+</p>
+<p float="center">
+<img src="./img/13.png" alt="" width="400" height="300">
+<img src="./img/14.png" alt="" width="400" height="300">
+</p>
+
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnai-ds&repo=Datathon-Criteo-Benchmark-Churn-Date)](https://github.com/cnai-ds/Datathon-Criteo-Benchmark-Churn-Date)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnai-ds&repo=Crop-Yield-Prediction-Satellite-Image)](https://github.com/cnai-ds/Crop-Yield-Prediction-Satellite-Image)
