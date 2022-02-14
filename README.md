@@ -4,9 +4,10 @@ Especially passionate about experimentation, solving problems by applying ML mod
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnai-ds&layout=compact)](https://github.com/cnai-ds/github-readme-stats)
 
 ### Visualization samples
-
-<img src="./img/1.png" alt="" width="300" height="250" />
+<p float="center">
+<img src="./img/1.png" alt="" width="300" height="250">
 <img src="./img/2.png" alt="" width="300" height="250">
+</p>
 <img src="./img/3.png" alt="" width="400" height="250">
 <img src="./img/4.png" alt="" width="400" height="250">
 <img src="./img/5.png" alt="" width="400" height="250">
