@@ -42,7 +42,7 @@ My strength lies in strong curiosity, autonomy, and willingness to learn. What e
 
 #### Career story
 - **Freelance Data Scientist**📈 <br>
-Thanks to my previous experiences, I get to work for 
+Currently working as freelance where I get to work for previous companies on project bases. <br>
 - **Emerton: Data Scientist & Strategy Consltant**📈💼 <br>
 One of the most well known data science team in Paris, first time to create my own python packages for clients, build pipeline on a server, deal with satellite image, remote sensing, and implement state-of-art techniques. Many strategic and due diligence projects for one of the largest companies in the world. <br><br>
 - **Rakuten: Data Scientist**📈 <br>
