@@ -1,5 +1,5 @@
-### <p align="center"> Data Scientist with a strong business background
-I have worked as a data scientist and analyst for more than 4 years. </p>
+### <p align="center"> Versatile Data Scientist with experiences in various industries and ML projects
+My strength lies in strong curiosity, autonomy, and willingness to learn. What excites me the most is when I get to tackle challenges and difficult problems - because I know that's when I get to learn new techniques and scientific concept. I adore diversity in the same reason, I want to learn from different views from different reference poins.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnai-ds&layout=compact)](https://github.com/cnai-ds/github-readme-stats)
 <br>
@@ -41,12 +41,14 @@ I have worked as a data scientist and analyst for more than 4 years. </p>
 
 
 #### Career story
+- **Freelance Data Scientist**📈 <br>
+Thanks to my previous experiences, I get to work for 
 - **Emerton: Data Scientist & Strategy Consltant**📈💼 <br>
-One of the most well known data science team in Paris, first time to create my own python packages for clients, build pipeline on a server, deal with satellite image, remote sensing, and implement state-of-art techniques. Many strategic and due diligence projects for one of the largest companies in the world. However, I am currently thinking to go back to a pure data scientist. <br><br>
+One of the most well known data science team in Paris, first time to create my own python packages for clients, build pipeline on a server, deal with satellite image, remote sensing, and implement state-of-art techniques. Many strategic and due diligence projects for one of the largest companies in the world. <br><br>
 - **Rakuten: Data Scientist**📈 <br>
-Tokyo to Paris to do more experimentations and find insights ! <br><br>
+Tokyo to Paris to do more experimentations and find customer insights ! <br><br>
 - **Farfetch: Data Analyst / Scientist**📈 <br>
-Previous manager at Gucci invided me to join his team, so I did ! Experimentations on marketing channels and websites. Promoted after a year <br><br>
+Previous manager at Gucci invided me to join his team, so I did ! Improved marketing metrics by finding correlations / feature importances to better LTV, scoring of VIP, and experimentation base on those insights. Promoted after a year <br><br>
 - **EY: Consultant**💼 <br>
 Gained logical thinking process and professionalism to work for company executives, promoted within a year <br><br>
 - **Gucci: e-commerce Data Analyst intern**📈 <br>
