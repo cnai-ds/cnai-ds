@@ -1,11 +1,6 @@
 ### <p align="center"> Versatile Data Scientist with experiences in various industries and ML projects
 My strength lies in strong curiosity, autonomy, and willingness to learn. What excites me the most is when I get to tackle challenges and difficult problems - because I know that's when I get to learn new techniques and scientific concept. I adore diversity in the same reason, I want to learn from different views from different reference poins.</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnai-ds&layout=compact)](https://github.com/cnai-ds/github-readme-stats)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnai-ds&repo=Experimentation-Product-Analysis)](https://github.com/cnai-ds/https://github.com/cnai-ds/Experimentation-Product-Analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnai-ds&repo=Crop-Yield-Prediction-Satellite-Image)](https://github.com/cnai-ds/Crop-Yield-Prediction-Satellite-Image)
-
 
 ### Visualization samples
 <p float="center">
