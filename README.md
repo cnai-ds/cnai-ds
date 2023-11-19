@@ -1,5 +1,5 @@
 ### <p align="center"> Hello👋, feel free to reach me out for freelance Data Science project
-I am a Data Scientist with strong curiocity, autonomy, creativity and leaning ability. What excites me the most is when I get to tackle difficult problems with no guidance, because that's where I can freely explore the creative solutions. I currently specialise in pricing optimisation, but I have experience in remote sensing, conversion optimisation, rigorous experimentation and strategic consulting.</p>
+I am a Data Scientist with strong curiocity, autonomy, creativity and leaning ability. Currently I specialize in pricing optimization using data science, and have experience in remote sensing, uplift modeling, marketing promotion optimization based on CTLV, frequentist/Bayesian statistical test, and strategic consulting.</p>
 
 
 ### Visualization samples
