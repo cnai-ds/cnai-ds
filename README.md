@@ -1,5 +1,5 @@
 ### <p align="center"> Hi👋, Feel free to reach me out for freelance ML/Data Science any collaborative research projects via LinkedIn
-I am a Data Scientist with strong curiosity, autonomy, creativity and learning ability. Currently, I specialize in pricing optimization using data science and have experience in remote sensing, uplift modeling, marketing promotion optimization based on CTLV, frequentist/Bayesian statistical tests, and strategic consulting.</p>
+I am a Senior Data Scientist / ML Ops with strong curiosity, autonomy, creativity, and learning ability. Currently, I specialize in pricing and marketing campaign optimization using data science and AWS based MLOps pipeline development, and have experience in remote sensing, uplift modeling, high-level Bayesian statisticals, and strategic consulting.</p>
 
 
 ### Visualization samples
